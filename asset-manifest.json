@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tambola-announcer/static/css/main.355f898c.css",
-    "main.js": "/tambola-announcer/static/js/main.ea9f7c19.js",
+    "main.js": "/tambola-announcer/static/js/main.15bb3bba.js",
     "static/js/787.07e4c9e5.chunk.js": "/tambola-announcer/static/js/787.07e4c9e5.chunk.js",
     "static/media/background.png": "/tambola-announcer/static/media/background.3bf0355ebadb0a4fdd64.png",
     "index.html": "/tambola-announcer/index.html",
     "main.355f898c.css.map": "/tambola-announcer/static/css/main.355f898c.css.map",
-    "main.ea9f7c19.js.map": "/tambola-announcer/static/js/main.ea9f7c19.js.map",
+    "main.15bb3bba.js.map": "/tambola-announcer/static/js/main.15bb3bba.js.map",
     "787.07e4c9e5.chunk.js.map": "/tambola-announcer/static/js/787.07e4c9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.355f898c.css",
-    "static/js/main.ea9f7c19.js"
+    "static/js/main.15bb3bba.js"
   ]
 }
