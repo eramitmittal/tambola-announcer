@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  display: grid;
+  height: 100%;
+  grid-template-rows: 80% auto;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.App-main {
+  grid-row: 1;
+  display: grid;
+  grid-template-rows: 25% 75%;
+}
+
+.App-footer {
+  grid-row: 2;
+  display: grid;
+  grid-template-columns: auto 20% 5% 20% auto;
+  grid-template-rows: 25% 20% auto;
+  color: lawngreen;
+}
+
+.App-header {
+  font-size: calc(10px + 2vmin);
+  grid-row: 1;
+  display: grid;
+  grid-template-rows: 75% 25%;
+}
+
+.App-title {
+  color: lawngreen;
+  font-weight: bolder; 
+  font-size: 40px;
+  grid-row: 1;
+  font-family: cursive;
+}
+
+.App-actions {
+  font-weight: bolder; 
+  font-size: 40px;
+  grid-row: 2;
+  display: grid;
+  grid-template-columns: auto 100px 30px 150px 30px 100px auto;
+}
+
+.App-actions button {
+  font-size: calc(10px + 2vmin);
+  background-color: darkorchid;
+}
+
+
+.App-body {
+  font-size: calc(10px + 2vmin);
+  font-weight: bold;
+  color: black;
+  grid-row: 2;
+  display: grid;
+  grid-template-columns: 25% auto 25%;
+}
+
+.Announced {
+  background-color: green;
+}
+
+.Main-content {
+  margin-top: 25px;
+  grid-column: 2;
+  color: red;
+  font-weight: bolder;
+}
+
