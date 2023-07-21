@@ -63,9 +63,9 @@ function App() {
         </header>
       </div>
       <footer className='App-footer'>
-        <p style={{gridColumn: 2, gridRow: 2}}>Numbers announced {announcer.allAnnounced.length}/{maxNum}</p>
-        <p style={{gridColumn: 4, gridRow: 2}}>Last number announced: {lastNumAnnounced}</p>
-        <p style={{gridColumnStart: 2, gridColumnEnd: 5, gridRow: 3, color: 'white'}}>For Shoi Sammy, with <span style={{color: "red", 'fontSize':25}}>&#10084;</span> from Fufu</p>
+        <p style={{gridColumn: 2, gridRow: 3}}>Numbers announced {announcer.allAnnounced.length}/{maxNum}</p>
+        <p style={{gridColumn: 4, gridRow: 3}}>Last number announced: {lastNumAnnounced}</p>
+        <p style={{gridColumnStart: 2, gridColumnEnd: 5, gridRow: 4, color: 'white'}}>For Shoi Sammy, with <span style={{color: "red", 'fontSize':25}}>&#10084;</span> from Fufu</p>
       </footer>
     </div>
   );

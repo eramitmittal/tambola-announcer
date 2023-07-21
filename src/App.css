@@ -14,10 +14,10 @@
 }
 
 .App-footer {
-  grid-row: 2;
+  grid-row: 3;
   display: grid;
   grid-template-columns: auto 20% 5% 20% auto;
-  grid-template-rows: 25% 20% auto;
+  grid-template-rows: 15% 20% 20% auto;
   color: lawngreen;
 }
 
