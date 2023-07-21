@@ -74,7 +74,6 @@ function App() {
 function playAnnouncedNumber() {
   if(!enabled)return;
   enabled = false;
-  if(announcer.lastAnnounced() <= 15) {
   const sound = `${process.env.PUBLIC_URL}/sound/${announcer.lastAnnounced()}.opus`;
   new Audio(sound).play().then
   (()=>{
@@ -86,7 +85,6 @@ function playAnnouncedNumber() {
   }).then(()=>{
     enabled = true;
   })
-} else {enabled = true}
 }
 
 function TambolaNum(num : number) {
