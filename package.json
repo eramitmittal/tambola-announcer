@@ -2,6 +2,7 @@
   "name": "tambola-announcer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eramitmittal.github.io/tambola-announcer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
