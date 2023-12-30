@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tambola-announcer/static/css/main.355f898c.css",
-    "main.js": "/tambola-announcer/static/js/main.15bb3bba.js",
-    "static/js/787.07e4c9e5.chunk.js": "/tambola-announcer/static/js/787.07e4c9e5.chunk.js",
-    "static/media/background.png": "/tambola-announcer/static/media/background.3bf0355ebadb0a4fdd64.png",
+    "main.css": "/tambola-announcer/static/css/main.4ee862a8.css",
+    "main.js": "/tambola-announcer/static/js/main.855b76e6.js",
+    "static/js/787.c22686c1.chunk.js": "/tambola-announcer/static/js/787.c22686c1.chunk.js",
+    "static/media/background.png": "/tambola-announcer/static/media/background.5259468bbeb6325c2c1b.png",
     "index.html": "/tambola-announcer/index.html",
-    "main.355f898c.css.map": "/tambola-announcer/static/css/main.355f898c.css.map",
-    "main.15bb3bba.js.map": "/tambola-announcer/static/js/main.15bb3bba.js.map",
-    "787.07e4c9e5.chunk.js.map": "/tambola-announcer/static/js/787.07e4c9e5.chunk.js.map"
+    "main.4ee862a8.css.map": "/tambola-announcer/static/css/main.4ee862a8.css.map",
+    "main.855b76e6.js.map": "/tambola-announcer/static/js/main.855b76e6.js.map",
+    "787.c22686c1.chunk.js.map": "/tambola-announcer/static/js/787.c22686c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.355f898c.css",
-    "static/js/main.15bb3bba.js"
+    "static/css/main.4ee862a8.css",
+    "static/js/main.855b76e6.js"
   ]
 }
