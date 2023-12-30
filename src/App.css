@@ -2,23 +2,24 @@
   text-align: center;
   display: grid;
   height: 100%;
-  grid-template-rows: 80% auto;
+  grid-template-rows: 8% 48% 12% auto;
   background-attachment: fixed;
   background-size: 100% 100%;
 }
 
 .App-main {
-  grid-row: 1;
+  grid-row: 2;
   display: grid;
   grid-template-rows: 25% 75%;
 }
 
 .App-footer {
-  grid-row: 3;
+  grid-row: 4;
   display: grid;
-  grid-template-columns: auto 20% 5% 20% auto;
-  grid-template-rows: 15% 20% 20% auto;
-  color: lawngreen;
+  grid-template-columns: 30px auto 20% 2% 20% auto;
+  grid-template-rows: 15% 20% 10% 6px auto;
+  color: red;
+  font-weight: bolder;
 }
 
 .App-header {
@@ -29,7 +30,7 @@
 }
 
 .App-title {
-  color: lawngreen;
+  color: green;
   font-weight: bolder; 
   font-size: 40px;
   grid-row: 1;
@@ -46,7 +47,7 @@
 
 .App-actions button {
   font-size: calc(10px + 2vmin);
-  background-color: darkorchid;
+  background-color: red;
 }
 
 
@@ -60,13 +61,17 @@
 }
 
 .Announced {
-  background-color: green;
+  background-color: black;
+}
+
+.last-Announced {
+  background-color: red;
 }
 
 .Main-content {
   margin-top: 25px;
   grid-column: 2;
-  color: red;
+  color: royalblue;
   font-weight: bolder;
 }
 
